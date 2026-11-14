@@ -1,59 +1,71 @@
 # Hi, I'm Mann Shah 👋
 
-### Computer Engineering Student | Aspiring Data Analyst & Software Engineer
+### Computer Engineering Student | Python • SQL • Data Analytics • Software Engineering
 
-I'm a final-year Computer Engineering student at **Ahmedabad Institute of Technology (AIT), Gujarat**. I enjoy solving practical problems with Python, SQL, data analysis, and AI-powered applications.
+I'm a final-year Computer Engineering student at **Ahmedabad Institute of Technology (AIT), Gujarat**. I enjoy building practical applications and using technology to solve real-world problems.
 
-I'm currently strengthening my skills in **Python, SQL, data analytics, and machine learning**, while building projects that connect software development with real-world use cases.
+I'm developing my skills in **Python, SQL, data analytics, and AI-powered software**, and looking for opportunities where I can learn, contribute, and grow as an engineer.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Focused On
 
-- Building practical projects using Python, SQL, and AI.
-- Improving my data analysis skills and learning how to turn raw data into useful insights.
-- Exploring Python development, automation, and machine learning.
-- Preparing for entry-level opportunities in Data Analytics and Software Engineering.
+- Writing Python programs and building useful applications.
+- Practising SQL, database concepts, and data analysis.
+- Learning data visualization and business intelligence tools.
+- Exploring machine learning and retrieval-augmented generation (RAG).
+- Improving software development, testing, and problem-solving skills.
 
-## 🧰 Skills & Tools
+## 🛠️ Skills & Tools
 
-**Programming:** Python, SQL  
-**Data & Analytics:** Data Analysis, Power BI (learning), Excel (learning)  
-**AI & Development:** Generative AI, RAG, Streamlit, FastAPI (learning)  
-**Databases:** SQLite  
-**Tools:** Git, GitHub, VS Code
+| Category | Skills |
+|---|---|
+| Programming | Python, SQL |
+| Data & Analytics | Data Analysis, Excel (learning), Power BI (learning) |
+| AI & Machine Learning | Generative AI, RAG, Machine Learning fundamentals |
+| Frameworks & Apps | FastAPI, Streamlit |
+| Databases | SQLite, MongoDB |
+| Tools | Git, GitHub, VS Code |
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-### [Advanced RAG Pipeline](https://github.com/Mannn2105/Advanced-Rag-Pipeline-)
-A retrieval-augmented generation project exploring hybrid search, reranking, query expansion, and improved retrieval workflows.
+### 1. [Advanced RAG Pipeline](https://github.com/Mannn2105/Advanced-Rag-Pipeline-)
+A Python-based document question-answering project exploring hybrid retrieval, BM25, Qdrant, query expansion, reranking, and answer generation.
 
-### [TradeVerify](https://tradeverify-lemon.vercel.app/)
-A platform concept focused on helping users discover and connect with verified local service professionals.
+**Technologies:** Python, FastAPI, LlamaIndex, Qdrant, Cohere
 
-### Natural Language to SQL Assistant
-A Python-based application that converts natural-language questions into SQL queries, with query validation and read-only safeguards.
+### 2. [TradeVerify — Verified Local Services](https://github.com/Mannn2105/tradeverify)
+A web application project focused on helping users discover and connect with local service professionals, with provider profiles, verification workflows, and booking-related features.
+
+**Technologies:** Next.js, TypeScript, MongoDB
+
+[View the deployed project](https://tradeverify-lemon.vercel.app/)
+
+### 3. [HomeEats](https://github.com/Mannn2105/Home--eats)
+An academic front-end project exploring a simple website experience around discovering home-style food.
+
+**Technologies:** HTML, CSS, JavaScript
 
 ## 🏆 Highlights
 
-- Part of a team that reached the **Top 20 finalists** in the college-level Smart India Hackathon competition.
+- Reached the **Top 20 finalist stage** in my college-level Smart India Hackathon competition as part of a team.
 - Completed a Full Stack Development internship experience.
-- Interested in building useful, practical software and data-driven solutions.
+- Interested in building practical software and data-driven solutions.
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - Python programming and problem solving
-- SQL and database concepts
+- SQL queries, joins, aggregations, and database concepts
 - Data analytics and visualization
 - Machine learning fundamentals
-- Software development best practices
+- Software development and testing practices
 
 ## 🤝 Let's Connect
 
-I'm open to learning opportunities, internships, collaborations, and entry-level roles in **Data Analytics, Python Development, and Software Engineering**.
+I'm open to internships, collaborations, and entry-level opportunities in **Data Analytics, Python Development, and Software Engineering**.
 
 - GitHub: [@Mannn2105](https://github.com/Mannn2105)
 
 ---
 
-*Always learning. Always building.*
+*Learning consistently. Building practical projects. Growing one step at a time.*
