@@ -1,6 +1,6 @@
-# Hi, I'm Mann Shah
+**Hi, I'm Mann Shah**
 
-### Computer Engineering Student | Python, SQL, Data Analytics, Software Engineering
+**Computer Engineering Student | Python, SQL, Data Analytics, Software Engineering**
 
 I'm a final-year Computer Engineering student at **Ahmedabad Institute of Technology (AIT), Gujarat**. I enjoy building practical applications and using technology to solve real-world problems.
 
