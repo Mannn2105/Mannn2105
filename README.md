@@ -8,7 +8,7 @@ I'm developing my skills in **Python, SQL, data analytics, and AI-powered softwa
 
 ---
 
-## What I'm Focused On
+**What I'm Focused On**
 
 - Writing Python programs and building useful applications.
 - Practising SQL, database concepts, and data analysis.
@@ -16,7 +16,7 @@ I'm developing my skills in **Python, SQL, data analytics, and AI-powered softwa
 - Exploring machine learning and retrieval-augmented generation (RAG).
 - Improving software development, testing, and problem-solving skills.
 
-## Skills & Tools
+**Skills & Tools**
 
 | Category | Skills |
 |---|---|
@@ -27,32 +27,32 @@ I'm developing my skills in **Python, SQL, data analytics, and AI-powered softwa
 | Databases | SQLite, MongoDB |
 | Tools | Git, GitHub, VS Code |
 
-## Featured Projects
+**Featured Projects**
 
-### 1. [Advanced RAG Pipeline](https://github.com/Mannn2105/Advanced-Rag-Pipeline-)
+**1. [Advanced RAG Pipeline](https://github.com/Mannn2105/Advanced-Rag-Pipeline-)**
 A Python-based document question-answering project exploring hybrid retrieval, BM25, Qdrant, query expansion, reranking, and answer generation.
 
 **Technologies:** Python, FastAPI, LlamaIndex, Qdrant, Cohere
 
-### 2. [TradeVerify — Verified Local Services](https://github.com/Mannn2105/tradeverify)
+**2. [TradeVerify — Verified Local Services](https://github.com/Mannn2105/tradeverify)**
 A web application project focused on helping users discover and connect with local service professionals, with provider profiles, verification workflows, and booking-related features.
 
 **Technologies:** Next.js, TypeScript, MongoDB
 
 [View the deployed project](https://tradeverify-lemon.vercel.app/)
 
-### 3. [HomeEats](https://github.com/Mannn2105/Home--eats)
+**3. [HomeEats](https://github.com/Mannn2105/Home--eats)**
 An academic front-end project exploring a simple website experience around discovering home-style food.
 
 **Technologies:** HTML, CSS, JavaScript
 
-## Highlights
+**Highlights**
 
 - Reached the **Top 20 finalist stage** in my college-level Smart India Hackathon competition as part of a team.
 - Completed a Full Stack Development internship experience.
 - Interested in building practical software and data-driven solutions.
 
-## Currently Learning
+**Currently Learning**
 
 - Python programming and problem solving
 - SQL queries, joins, aggregations, and database concepts
@@ -60,7 +60,7 @@ An academic front-end project exploring a simple website experience around disco
 - Machine learning fundamentals
 - Software development and testing practices
 
-## Let's Connect
+**Let's Connect**
 
 I'm open to internships, collaborations, and entry-level opportunities in **Data Analytics, Python Development, and Software Engineering**.
 
