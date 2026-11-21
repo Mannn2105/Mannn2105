@@ -6,7 +6,7 @@ I'm a final-year Computer Engineering student at Ahmedabad Institute of Technolo
 
 I'm strengthening my skills in Python, SQL, data analytics, and AI-powered applications, and I'm open to internship and entry-level opportunities.
 
-## Skills & tools
+## Skills and tools
 
 | Category | Skills and tools |
 |---|---|
@@ -19,37 +19,47 @@ I'm strengthening my skills in Python, SQL, data analytics, and AI-powered appli
 
 ## Featured projects
 
-### 1. [Advanced RAG Pipeline](https://github.com/Mannn2105/Advanced-Rag-Pipeline-)
+### 1. Advanced RAG Pipeline
 
 A document question-answering application that combines vector and keyword retrieval with query expansion, reranking, context compression, and answer generation.
 
-**Tech:** Python, FastAPI, LlamaIndex, Qdrant, BM25, Cohere
+**Technologies:** Python, FastAPI, LlamaIndex, Qdrant, BM25, Cohere
 
-### 2. [Natural Language to SQL Assistant](https://github.com/Mannn2105/natural-language-to-sql-assistant)
+[Source code](https://github.com/Mannn2105/Advanced-Rag-Pipeline-)
 
-A Streamlit application that translates plain-English questions into SQLite queries, validates the generated SQL, executes it through read-only database access, and presents the results.
+The hosted demo is currently unavailable, so I have listed the source repository rather than presenting the deployment as a working demo.
 
-**Tech:** Python, SQL, SQLite, Streamlit, Pandas, Anthropic API
+### 2. Natural Language to SQL Assistant
 
-### 3. [HomeEats](https://github.com/Mannn2105/Home--eats)
+A Streamlit application that translates plain-English questions into SQLite queries, validates generated SQL, executes it through read-only database access, and presents the results.
+
+**Technologies:** Python, SQL, SQLite, Streamlit, Pandas, Anthropic API
+
+[Source code](https://github.com/Mannn2105/natural-language-to-sql-assistant)
+
+### 3. HomeEats
 
 A full-stack homestyle food ordering application with a menu, session-based cart, checkout, Razorpay Test Mode integration, Cash on Delivery, and printable receipts.
 
-**Tech:** Python, Flask, SQLite, Jinja, HTML, CSS
+**Technologies:** Python, Flask, SQLite, Jinja, HTML, CSS
 
-[Open the HomeEats demo](https://homeeats-web-production.up.railway.app/)
+[Source code](https://github.com/Mannn2105/Home--eats) | [Live demo](https://homeeats-web-production.up.railway.app/)
 
-### 4. [TradeVerify — Verified Local Services](https://github.com/Mannn2105/tradeverify)
+The repository includes checkout and receipt UI preview illustrations. The online payment flow is configured for Razorpay Test Mode only.
+
+### 4. TradeVerify — Verified Local Services
 
 A local-services marketplace project with role-aware accounts, provider verification workflows, service listings, availability, and booking features.
 
-**Tech:** Next.js, TypeScript, MongoDB, Mongoose, Zod
+**Technologies:** Next.js, TypeScript, MongoDB, Mongoose, Zod
 
-[Open the TradeVerify demo](https://tradeverify-lemon.vercel.app/)
+[Source code](https://github.com/Mannn2105/tradeverify)
+
+The hosted deployment is currently returning a server error, so I have not listed it as a working live demo.
 
 ## Highlights
 
-- Reached the **Top 20 finalist stage** in my college-level Smart India Hackathon competition as part of a team.
+- Reached the Top 20 finalist stage in my college-level Smart India Hackathon competition as part of a team.
 - Completed a Full Stack Development internship experience.
 - Interested in building reliable software and data-driven solutions.
 
@@ -63,10 +73,10 @@ A local-services marketplace project with role-aware accounts, provider verifica
 
 ## Connect
 
-I'm open to internships, collaborations, and entry-level opportunities in **Data Analytics, Python Development, and Software Engineering**.
+I'm open to internships, collaborations, and entry-level opportunities in Data Analytics, Python Development, and Software Engineering.
 
-- GitHub: [@Mannn2105](https://github.com/Mannn2105)
+[GitHub profile](https://github.com/Mannn2105)
 
 ---
 
-*Learning consistently, building practical projects, and improving one step at a time.*
+Learning consistently, building practical projects, and improving one step at a time.
