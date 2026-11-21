@@ -1,66 +1,67 @@
-**Hi, I'm Mann Shah**
+# Hi, I'm Mann Shah
 
-**Computer Engineering Student | Python, SQL, Data Analytics, Software Engineering**
+**Final-year Computer Engineering Student | Python | SQL | Data Analytics | Software Engineering**
 
-I'm a final-year Computer Engineering student at **Ahmedabad Institute of Technology (AIT), Gujarat**. I enjoy building practical applications and using technology to solve real-world problems.
+I'm a final-year Computer Engineering student at Ahmedabad Institute of Technology (AIT), Gujarat. I enjoy building practical applications and exploring how software, data, and AI can solve real-world problems.
 
-I'm developing my skills in **Python, SQL, data analytics, and AI-powered software**, and looking for opportunities where I can learn, contribute, and grow as an engineer.
+I'm strengthening my skills in Python, SQL, data analytics, and AI-powered applications, and I'm open to internship and entry-level opportunities.
 
----
+## Skills & tools
 
-**What I'm Focused On**
-
-- Writing Python programs and building useful applications.
-- Practising SQL, database concepts, and data analysis.
-- Learning data visualization and business intelligence tools.
-- Exploring machine learning and retrieval-augmented generation (RAG).
-- Improving software development, testing, and problem-solving skills.
-
-**Skills & Tools**
-
-| Category | Skills |
+| Category | Skills and tools |
 |---|---|
 | Programming | Python, SQL |
-| Data & Analytics | Data Analysis, Excel (learning), Power BI (learning) |
-| AI & Machine Learning | Generative AI, RAG, Machine Learning fundamentals |
-| Frameworks & Apps | FastAPI, Streamlit |
-| Databases | SQLite, MongoDB |
+| Data and analytics | Data analysis, Excel, Power BI |
+| AI and machine learning | Generative AI, RAG, machine learning fundamentals |
+| Frameworks | FastAPI, Flask, Streamlit |
+| Databases | SQLite, MongoDB, Qdrant |
 | Tools | Git, GitHub, VS Code |
 
-**Featured Projects**
+## Featured projects
 
-**1. [Advanced RAG Pipeline](https://github.com/Mannn2105/Advanced-Rag-Pipeline-)**
-A Python-based document question-answering project exploring hybrid retrieval, BM25, Qdrant, query expansion, reranking, and answer generation.
+### 1. [Advanced RAG Pipeline](https://github.com/Mannn2105/Advanced-Rag-Pipeline-)
 
-**Technologies:** Python, FastAPI, LlamaIndex, Qdrant, Cohere
+A document question-answering application that combines vector and keyword retrieval with query expansion, reranking, context compression, and answer generation.
 
-**2. [TradeVerify — Verified Local Services](https://github.com/Mannn2105/tradeverify)**
-A web application project focused on helping users discover and connect with local service professionals, with provider profiles, verification workflows, and booking-related features.
+**Tech:** Python, FastAPI, LlamaIndex, Qdrant, BM25, Cohere
 
-**Technologies:** Next.js, TypeScript, MongoDB
+### 2. [Natural Language to SQL Assistant](https://github.com/Mannn2105/natural-language-to-sql-assistant)
 
-[View the deployed project](https://tradeverify-lemon.vercel.app/)
+A Streamlit application that translates plain-English questions into SQLite queries, validates the generated SQL, executes it through read-only database access, and presents the results.
 
-**3. [HomeEats](https://github.com/Mannn2105/Home--eats)**
-An academic front-end project exploring a simple website experience around discovering home-style food.
+**Tech:** Python, SQL, SQLite, Streamlit, Pandas, Anthropic API
 
-**Technologies:** HTML, CSS, JavaScript
+### 3. [HomeEats](https://github.com/Mannn2105/Home--eats)
 
-**Highlights**
+A full-stack homestyle food ordering application with a menu, session-based cart, checkout, Razorpay Test Mode integration, Cash on Delivery, and printable receipts.
+
+**Tech:** Python, Flask, SQLite, Jinja, HTML, CSS
+
+[Open the HomeEats demo](https://homeeats-web-production.up.railway.app/)
+
+### 4. [TradeVerify — Verified Local Services](https://github.com/Mannn2105/tradeverify)
+
+A local-services marketplace project with role-aware accounts, provider verification workflows, service listings, availability, and booking features.
+
+**Tech:** Next.js, TypeScript, MongoDB, Mongoose, Zod
+
+[Open the TradeVerify demo](https://tradeverify-lemon.vercel.app/)
+
+## Highlights
 
 - Reached the **Top 20 finalist stage** in my college-level Smart India Hackathon competition as part of a team.
 - Completed a Full Stack Development internship experience.
-- Interested in building practical software and data-driven solutions.
+- Interested in building reliable software and data-driven solutions.
 
-**Currently Learning**
+## Currently learning
 
 - Python programming and problem solving
-- SQL queries, joins, aggregations, and database concepts
+- SQL, joins, aggregations, and database concepts
 - Data analytics and visualization
 - Machine learning fundamentals
 - Software development and testing practices
 
-**Let's Connect**
+## Connect
 
 I'm open to internships, collaborations, and entry-level opportunities in **Data Analytics, Python Development, and Software Engineering**.
 
@@ -68,4 +69,4 @@ I'm open to internships, collaborations, and entry-level opportunities in **Data
 
 ---
 
-*Learning consistently. Building practical projects. Growing one step at a time.*
+*Learning consistently, building practical projects, and improving one step at a time.*
