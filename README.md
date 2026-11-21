@@ -47,6 +47,11 @@ A full-stack homestyle food ordering application with a menu, session-based cart
 
 The repository includes checkout and receipt UI preview illustrations. The online payment flow is configured for Razorpay Test Mode only.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mannn2105/Home--eats/main/docs/ui-preview-checkout.svg" alt="HomeEats checkout UI preview" width="48%">
+  <img src="https://raw.githubusercontent.com/Mannn2105/Home--eats/main/docs/ui-preview-receipt.svg" alt="HomeEats receipt UI preview" width="48%">
+</p>
+
 ### 4. TradeVerify — Verified Local Services
 
 A local-services marketplace project with role-aware accounts, provider verification workflows, service listings, availability, and booking features.
