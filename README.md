@@ -25,9 +25,9 @@ A document question-answering application that combines vector and keyword retri
 
 **Technologies:** Python, FastAPI, LlamaIndex, Qdrant, BM25, Cohere
 
-[Source code](https://github.com/Mannn2105/Advanced-Rag-Pipeline-)
+[Source code](https://github.com/Mannn2105/Advanced-Rag-Pipeline-/tree/improvement/provenance-and-quality-review) | [Live API status](https://rag-api-live-production.up.railway.app/api/status)
 
-The hosted demo is currently unavailable, so I have listed the source repository rather than presenting the deployment as a working demo.
+The hosted API and 29-chunk demo index are online. The chat interface is access-controlled; full query testing still requires valid provider credentials.
 
 ### 2. Natural Language to SQL Assistant
 
@@ -58,9 +58,9 @@ A local-services marketplace project with role-aware accounts, provider verifica
 
 **Technologies:** Next.js, TypeScript, MongoDB, Mongoose, Zod
 
-[Source code](https://github.com/Mannn2105/tradeverify)
+[Source code](https://github.com/Mannn2105/tradeverify) | [Live landing page](https://tradeverify-lemon.vercel.app/)
 
-The hosted deployment is currently returning a server error, so I have not listed it as a working live demo.
+The public landing page is online. Database-backed registry and booking features depend on the MongoDB connection being configured.
 
 ## Highlights
 
